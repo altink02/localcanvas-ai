@@ -1,3 +1,5 @@
+**Altin Kalludra** · [Download CV (PDF)](https://github.com/ulasmango-cmd/atlascall-portfolio/raw/refs/heads/main/cv/Altin-Kalludra-CV.pdf)
+
 <div align="center">
 
 # LocalCanvas AI
@@ -338,7 +340,7 @@ Real limitations, stated plainly:
 
 ## Ownership
 
-Built by **Altin** ([@ulasmango-cmd](https://github.com/ulasmango-cmd)).
+Built by **Altin Kalludra** ([@ulasmango-cmd](https://github.com/ulasmango-cmd)).
 
 - GitHub profile: [github.com/ulasmango-cmd](https://github.com/ulasmango-cmd)
 - Demo page: [ulasmango-cmd.github.io/localcanvas-ai](https://ulasmango-cmd.github.io/localcanvas-ai/)
@@ -369,4 +371,4 @@ portfolio documentation and product screenshots only — it intentionally does n
 include application source code, business logic, infrastructure configuration or
 credentials.
 
-© Altin. All rights reserved.
+© Altin Kalludra. All rights reserved.
