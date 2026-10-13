@@ -334,15 +334,15 @@ Real limitations, stated plainly:
 | No freehand brush tool in the UI, though the document supports it | Phase 4 follow-up |
 | Object removal blocked on a model-weight licence | Blocked |
 | Two-factor authentication not shipped | Blocked on sequencing |
-| Licence not yet chosen | Owner decision |
+| Implementation licence | Proprietary; all rights reserved |
 
 ---
 
 ## Ownership
 
-Built by **Altin Kalludra** ([@ulasmango-cmd](https://github.com/ulasmango-cmd)).
+Built by **[Altin Kalludra](https://github.com/ulasmango-cmd)**.
 
-- GitHub profile: [github.com/ulasmango-cmd](https://github.com/ulasmango-cmd)
+- GitHub profile: [Altin Kalludra](https://github.com/ulasmango-cmd)
 - Demo page: [ulasmango-cmd.github.io/localcanvas-ai](https://ulasmango-cmd.github.io/localcanvas-ai/)
 
 ---
