@@ -1,4 +1,4 @@
-**Altin Kalludra** · [Download CV (PDF)](https://github.com/ulasmango-cmd/atlascall-portfolio/raw/refs/heads/main/cv/Altin-Kalludra-CV.pdf)
+**Altin Kalludra** · [All projects](https://github.com/altink02/fxquant-portfolio/blob/main/PORTFOLIO.md) · [Download CV (PDF)](https://github.com/altink02/atlascall-portfolio/raw/refs/heads/main/cv/Altin-Kalludra-CV.pdf)
 
 <div align="center">
 
@@ -14,7 +14,7 @@
 
 > **This repository is a portfolio case study, not a source mirror.** The implementation is private. See [Ownership](#ownership).
 
-📸 **[Browse the screenshots](#screenshots)** · 🖥️ **[Open the demo page](https://ulasmango-cmd.github.io/localcanvas-ai/)**
+📸 **[Browse the screenshots](#screenshots)** · 🖥️ **[Open the demo page](https://altink02.github.io/localcanvas-ai/)**
 
 ---
 
@@ -340,10 +340,10 @@ Real limitations, stated plainly:
 
 ## Ownership
 
-Built by **[Altin Kalludra](https://github.com/ulasmango-cmd)**.
+Built by **[Altin Kalludra](https://github.com/altink02)**.
 
-- GitHub profile: [Altin Kalludra](https://github.com/ulasmango-cmd)
-- Demo page: [ulasmango-cmd.github.io/localcanvas-ai](https://ulasmango-cmd.github.io/localcanvas-ai/)
+- GitHub profile: [Altin Kalludra](https://github.com/altink02)
+- Demo page: [altink02.github.io/localcanvas-ai](https://altink02.github.io/localcanvas-ai/)
 
 ---
 
